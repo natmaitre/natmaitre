@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @natmaitre
-- 👀 I’m interested in .. I really don't know what to write here...
-- 🌱 I’m currently learning html, css and javascripts.
-- 💞️ I’m looking to collaborate on ... I just do little project for fun!
-- 📫 How to reach me ... I don't have every social media.
-
-<!---
-natmaitre/natmaitre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding since I got my first computer. I did explore lots of various things and I will continue to !
+- 🌱 I’m currently learning html, css and javascripts. Also did some arduino, unreal engine and before that unity. (but just a little 😁)
+- 💞️ I just do little project for fun ! Sometime alone or with my dad.
